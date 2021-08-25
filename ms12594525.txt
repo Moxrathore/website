@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "Moxrathore.com",
+  "Id": "0bc278a7-46ef-4af1-bf68-3b3e8950ce31"
+}
